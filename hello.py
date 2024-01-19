@@ -1,3 +1,3 @@
-name = input('Name: ')
-print('Hello, {}.'.format(name))
 
+name = input('Name: ')
+print('Hello, {}!'.format(name))
